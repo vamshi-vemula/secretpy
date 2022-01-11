@@ -1,4 +1,4 @@
-# SecretPy TOOL
+# SecretPy Tool
 Made by @vamshi-vemula with python
 
 ### Options Available
@@ -11,6 +11,6 @@ Made by @vamshi-vemula with python
 > python3 secretpy.py
 
 ### Screenshots
-![alt text](https://raw.githubusercontent.com/vamshi-vemula/secretpy/main/screenshots/ss1.png)
-![alt text](https://raw.githubusercontent.com/vamshi-vemula/secretpy/main/screenshots/ss2.png)
-![alt text](https://raw.githubusercontent.com/vamshi-vemula/secretpy/main/screenshots/ss3.png)
+![alt text](https://raw.githubusercontent.com/vamshi-vemula/secretpy/main/screenshots/ss1.png =250x)
+![alt text](https://raw.githubusercontent.com/vamshi-vemula/secretpy/main/screenshots/ss2.png =250x)
+![alt text](https://raw.githubusercontent.com/vamshi-vemula/secretpy/main/screenshots/ss3.png =250x)
