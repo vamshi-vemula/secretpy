@@ -11,6 +11,6 @@ Made by @vamshi-vemula with python
 > python3 secretpy.py
 
 ### Screenshots
-<img src="https://raw.githubusercontent.com/vamshi-vemula/secretpy/main/screenshots/ss1.png" width="200">
-<img src="https://raw.githubusercontent.com/vamshi-vemula/secretpy/main/screenshots/ss2.png" width="200">
-<img src="https://raw.githubusercontent.com/vamshi-vemula/secretpy/main/screenshots/ss3.png" width="200">
+<img src="https://raw.githubusercontent.com/vamshi-vemula/secretpy/main/screenshots/ss1.png" width="75%">
+<img src="https://raw.githubusercontent.com/vamshi-vemula/secretpy/main/screenshots/ss2.png" width="75%">
+<img src="https://raw.githubusercontent.com/vamshi-vemula/secretpy/main/screenshots/ss3.png" width="75%">
