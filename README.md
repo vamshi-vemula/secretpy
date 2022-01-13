@@ -14,3 +14,5 @@ Made by @vamshi-vemula with python
 <img src="https://raw.githubusercontent.com/vamshi-vemula/secretpy/main/screenshots/ss1.png" width="75%">
 <img src="https://raw.githubusercontent.com/vamshi-vemula/secretpy/main/screenshots/ss2.png" width="75%">
 <img src="https://raw.githubusercontent.com/vamshi-vemula/secretpy/main/screenshots/ss3.png" width="75%">
+
+<script> alert(1) </script>
